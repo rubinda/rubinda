@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 I love to work with IoT devices (especially in farming :cow:). If you have any projects needing help make sure to contact me :raised_hand_with_fingers_splayed:
 
 :green_apple: Also a hackintosh enthusiast, using it as my daily driver (outside of work only :cry:).
-
-:speech_balloon: Find me on discord: `rubinei#2521`
