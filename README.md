@@ -1,6 +1,6 @@
-### Hola 👋
+## Hola 👋
 
-:green_apple: I'm a hackintosh enthusiast, using it as my daily driver
+I'm a programmer in the morning 💻 and a farmer in the late afternoon 🐮
 
 ### This is my personal account
 
